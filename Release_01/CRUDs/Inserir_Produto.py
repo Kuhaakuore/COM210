@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox
 
-class Disciplina:
+class Produto:
 
     def __init__(self, codigo, nome):
         self.__codigo = codigo
